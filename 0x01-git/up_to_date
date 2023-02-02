@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git fetch
+||||||| af4cef0
+=======
+git pull
+>>>>>>> origin/master
